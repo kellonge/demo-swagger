@@ -1,2 +1,1 @@
-# demo-swagger
-swagger ui 使用demo
+启动后访问 http://localhost:8088/swagger-ui.html
